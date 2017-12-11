@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smap_web_app_demo", "smap_web_app_demo\smap_web_app_demo.csproj", "{66F9152A-6CBE-4143-AD26-F889D718BB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F9152A-6CBE-4143-AD26-F889D718BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F9152A-6CBE-4143-AD26-F889D718BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F9152A-6CBE-4143-AD26-F889D718BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F9152A-6CBE-4143-AD26-F889D718BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C48D09-8294-4B4C-8913-62AF654D2BE8}
+	EndGlobalSection
+EndGlobal
